@@ -1,0 +1,9 @@
+Track      ,Gucci      ,$12.50,40
+jeans      ,levi       ,20.10,40
+Jacket     ,Essential ,$30.20,12
+Sari         ,Kolkata  ,$21.30,30
+pant       ,Levi       ,$40.50,5
+T-Shirt    ,Ktm     ,$10.40,12
+Shirt        ,polo    ,$22.30,11
+
+
